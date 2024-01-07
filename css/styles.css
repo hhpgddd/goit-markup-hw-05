@@ -695,12 +695,11 @@ footer {
     fill: transparent;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border: none;
-    fill: #F4F4FD;
 }
 .checkbox:checked + .form-privacy-checkbox > .privacy-accept-icn {
     opacity: 1;
     transform: scale(1);
-
+    fill: #F4F4FD;
 }
 .form-privacy-link {
     color: #4D5AE5;
