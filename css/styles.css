@@ -691,10 +691,8 @@ footer {
 }
 .checkbox + .form-privacy > .form-privacy-checkbox {
     background-color: #404bbf;
-    border: none;
     fill: transparent;
     border: 1px solid rgba(46, 47, 66, 0.4);
-    border: none;
 }
 .checkbox:checked + .form-privacy-checkbox > .privacy-accept-icn {
     opacity: 1;
