@@ -698,6 +698,7 @@ footer {
     opacity: 1;
     transform: scale(1);
     fill: #F4F4FD;
+    border: none;
 }
 .form-privacy-link {
     color: #4D5AE5;
