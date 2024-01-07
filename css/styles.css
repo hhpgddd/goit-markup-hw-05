@@ -625,9 +625,7 @@ footer {
 .form-input:focus  {
     border-color: #4D5AE5;
 }
-.form-input:focus .form-icon {
-    fill: #4D5AE5;
-}
+
 .form-icon {
     position: absolute;
     left: 16px;
@@ -637,6 +635,7 @@ footer {
 }
 .form-field input:focus + .form-icon  .icon-user {
     fill: #4D5AE5;
+    
 }
 .form-comment {
     width: 100%;
